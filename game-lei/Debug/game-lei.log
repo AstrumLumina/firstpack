@@ -1,0 +1,4 @@
+﻿  game-test.cpp
+saolei.obj : error LNK2005: "__int64 start" (?start@@3_JA) 已经在 game-test.obj 中定义
+saolei.obj : error LNK2005: "__int64 mid" (?mid@@3_JA) 已经在 game-test.obj 中定义
+D:\代码\not-vscode\game-lei\Debug\game-lei.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
