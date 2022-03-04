@@ -1,0 +1,15 @@
+﻿  tongXlman.cpp
+D:\代码\not-vscode\tongxunlu\tongXlman.cpp(47,19): error C2275: “std::numeric_limits<__int64>”: 将此类型用作表达式非法
+D:\代码\not-vscode\tongxunlu\tongXlman.cpp(47): message : 参见“std::numeric_limits<__int64>”的声明
+D:\代码\not-vscode\tongxunlu\tongXlman.cpp(47,45): error C2146: 语法错误: 缺少“)”(在标识符“max”的前面)
+D:\代码\not-vscode\tongxunlu\tongXlman.cpp(47,45): error C2146: 语法错误: 缺少“;”(在标识符“max”的前面)
+D:\代码\not-vscode\tongxunlu\tongXlman.cpp(47,45): error C2672: “std::max”: 未找到匹配的重载函数
+D:\代码\not-vscode\tongxunlu\tongXlman.cpp(47,49): error C2780: “_Ty std::max(std::initializer_list<_Elem>)”: 应输入 1 个参数，却提供了 0 个
+F:\vs\vs-community22\VC\Tools\MSVC\14.30.30705\include\utility(51): message : 参见“std::max”的声明
+D:\代码\not-vscode\tongxunlu\tongXlman.cpp(47,49): error C2780: “_Ty std::max(std::initializer_list<_Elem>,_Pr)”: 应输入 2 个参数，却提供了 0 个
+F:\vs\vs-community22\VC\Tools\MSVC\14.30.30705\include\utility(48): message : 参见“std::max”的声明
+D:\代码\not-vscode\tongxunlu\tongXlman.cpp(47,49): error C2780: “const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)”: 应输入 2 个参数，却提供了 0 个
+F:\vs\vs-community22\VC\Tools\MSVC\14.30.30705\include\utility(41): message : 参见“std::max”的声明
+D:\代码\not-vscode\tongxunlu\tongXlman.cpp(47,49): error C2780: “const _Ty &std::max(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)”: 应输入 3 个参数，却提供了 0 个
+F:\vs\vs-community22\VC\Tools\MSVC\14.30.30705\include\utility(31): message : 参见“std::max”的声明
+D:\代码\not-vscode\tongxunlu\tongXlman.cpp(47,56): error C2059: 语法错误:“)”
