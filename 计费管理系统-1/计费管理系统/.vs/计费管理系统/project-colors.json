@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9d1220b6-168c-4c21-9c83-99d1294a88c7": {
+      "ProjectGuid": "9d1220b6-168c-4c21-9c83-99d1294a88c7",
+      "DisplayName": "计费管理系统",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
